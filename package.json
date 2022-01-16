@@ -12,7 +12,6 @@
     "@chainlink/external-adapter": "^0.2.3"
   },
   "devDependencies": {
-    "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "eslint": "^7.0.0",
     "eslint-config-standard": "^14.1.1",
